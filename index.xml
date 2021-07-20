@@ -5,6 +5,25 @@
     <link>https://arturleo.github.io/</link>
     <description>Recent content on Arturleo&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://arturleo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Jul 2021 23:08:03 +0800</lastBuildDate><atom:link href="https://arturleo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://arturleo.github.io/about/</link>
+      <pubDate>Tue, 20 Jul 2021 00:06:35 +0800</pubDate>
+      
+      <guid>https://arturleo.github.io/about/</guid>
+      <description>My resume.</description>
+    </item>
+    
+    <item>
+      <title>Hello_world</title>
+      <link>https://arturleo.github.io/post/hello_world/</link>
+      <pubDate>Mon, 19 Jul 2021 23:08:03 +0800</pubDate>
+      
+      <guid>https://arturleo.github.io/post/hello_world/</guid>
+      <description>Hello world </description>
+    </item>
+    
   </channel>
 </rss>
